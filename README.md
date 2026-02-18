@@ -1,6 +1,6 @@
-# SquareProject
+# SquareCares
 
-This is a minimal React app (Vite) that serves a homepage saying "SquareUp".
+This is a minimal React app (Vite).
 
 Run locally:
 
