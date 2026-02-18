@@ -1,4 +1,6 @@
 html,body,#root{height:100%;margin:0}
 .app{height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0.5rem;font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial}
 h1{font-size:48px;color:#111}
-.lead{max-width:720px;text-align:center;margin-top:1rem;color:#333;font-size:18px;line-height:1.6;padding:0 16px}
+.lead{max-width:720px;text-align:center;margin-top:1rem;color:#333;font-size:18px;line-height:1.4;padding:0 16px;margin-bottom:0}
+.lead.no-gap{margin-top:0;padding-top:0;line-height:1;margin-bottom:0}
+.sublead{max-width:720px;text-align:center;color:#333;font-size:18px;padding:0 16px}
